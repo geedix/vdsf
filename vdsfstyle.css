@@ -9,3 +9,7 @@ body{
 p{
     max-width:600px;
 }
+
+pre{
+    line-height: 2;
+}

@@ -102,6 +102,13 @@ img{
     margin-top:2em;
 }
 
+#vdh1{
+    display:block;
+    margin:0 auto;
+    width:60%;
+    max-width:360px;
+}
+
 #vdvid1 {
     aspect-ratio: 16 / 9;
     width: 100% !important;
